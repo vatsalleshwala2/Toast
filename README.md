@@ -16,7 +16,7 @@ allprojects {
 
 ```gradle
 dependencies {
-	        implementation 'com.github.vatsalleshwala2:Toast:Tag'
+	        implementation 'com.github.vatsalleshwala2:Toast:1.0.0'
 	}
 ```
 
