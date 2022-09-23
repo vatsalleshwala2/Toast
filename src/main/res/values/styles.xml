@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomDialog" parent="android:Theme.Holo.Light.Dialog">
+        <item name="DialogTitleAppearance">@android:style/TextAppearance.Medium</item>
+
+        <item name="DialogSpotColor">@color/red</item>
+        <item name="DialogSpotCount">4</item>
+    </style>
+
+
+</resources>
